@@ -1,0 +1,46 @@
+.MainDiv {
+	color: white
+}
+
+.Title1 {
+	color: white;
+	font-size: 4em;
+	text-align: center;
+}
+
+.first {
+	background-color: #52346e;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.monke {
+	color: white;
+	font-size: 4em;
+	text-align: center;
+}
+
+.FirstParagraph {
+	background-color: black;
+
+}
+
+.YTembed {
+	align-self: center;
+}
+
+.embed {
+	padding-left: 360px;
+	padding-right: 50px;
+}
+
+.Outlook {
+	background-color: #52346e;
+	text-align: center;
+	font-size: 4em;
+}
